@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Luke 9:50"
+date:   2014-03-31 00:00:01
+style: |
+  body {   
+    font-family: 'Rammetto One', cursive;
+  }
+  
+  blockquote {
+    color: #005275;
+    font-size: 6em;
+    margin: 0.5em 0.5em 2em;
+    text-transform: uppercase;
+    opacity: 0.6;
+    /*text-shadow: 1px 1px #F3AE70, 2px 2px #F3AE70, 3px 3px #F3AE70, 4px 4px #F3AE70, 5px 5px #F3AE70, 6px 6px #F3AE70, 7px 7px #F3AE70, 8px 8px #F3AE70;*/
+  }
+
+  blockquote span,
+  blockquote footer {
+    color: #F3AE70;
+    text-shadow: .01em .01em #005275, .02em .02em #005275, .03em .03em #005275, .04em .04em #005275, .05em .05em #005275, .06em .06em #005275, .07em .07em #005275, .08em .08em #005275;
+  }
+
+  blockquote footer {
+    font-size: 0.8em;
+    text-shadow: .01em .01em #005275, .02em .02em #005275, .03em .03em #005275, .04em .04em #005275, .05em .05em #005275;
+  }
+
+script: |
+  jQuery("blockquote").fitText(1, {minFontSize: '40px'});
+
+googlewebfonts: Rammetto+One
+---
+
+<blockquote>
+    Live in <span>peace</span> with each other
+    <footer>Luke 9:50</footer>
+</blockquote>

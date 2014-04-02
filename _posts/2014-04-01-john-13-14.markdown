@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "John 13:14"
+date:   2014-04-01 00:00:01
+style: |
+  body {
+    font-family: 'Bubbler One', sans-serif;
+  }
+  blockquote {
+    color: #BF4588;
+    font-size: 9em;
+    margin: 0.5em 0.5em 2em;
+    text-transform: uppercase;
+    opacity: 0.6;
+    font-weight: bold;
+  }
+
+  blockquote span,
+  blockquote footer {
+    color: #403531;
+  }
+
+  blockquote footer {
+    font-size: 0.8em;
+  }
+
+  body > header {
+    font-size: 2em;
+  } 
+
+  body > header h1 {
+    font-size: 1.5em;
+  }
+
+  body > footer {
+    font-size: 1em;
+  }
+
+script: |
+  jQuery("blockquote").fitText(1, {minFontSize: '40px'});
+
+googlewebfonts: Bubbler+One
+---
+
+<blockquote>
+    Wash one another's feet (humbly <span>serve</span> one another)
+    <footer>John 13:14</footer>
+</blockquote>
