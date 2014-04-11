@@ -4,13 +4,12 @@ title:  "John 13:14"
 date:   2014-04-01 00:00:01
 style: |
   body {
-    font-family: 'Bubbler One', sans-serif;
+    font-family: 'Delius', cursive;
   }
   blockquote {
     color: #BF4588;
     font-size: 9em;
     margin: 0.5em 0.5em 2em;
-    text-transform: uppercase;
     opacity: 0.6;
     font-weight: bold;
   }
@@ -39,7 +38,7 @@ style: |
 script: |
   jQuery("blockquote").fitText(1, {minFontSize: '40px'});
 
-googlewebfonts: Bubbler+One
+googlewebfonts: Delius
 ---
 
 <blockquote>

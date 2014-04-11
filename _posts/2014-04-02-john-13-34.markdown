@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "John 13:34"
+date:   2014-04-02 00:00:01
+style: |
+  body {
+    font-family: 'Rancho', cursive;
+  }
+  blockquote {
+    color: #4F80E1;
+    font-size: 6em;
+    margin: 0.5em 0.5em 2em;
+    opacity: 0.6;
+    font-weight: bold;
+    text-shadow: .025em .025em black;
+  }
+
+  blockquote span,
+  blockquote footer {
+    color: #FF5349;
+    text-shadow: .04em .04em black;
+  }
+
+  blockquote footer {
+    font-size: 0.8em;
+  }
+
+  body > header {
+    font-size: 2em;
+  } 
+
+  body > header h1 {
+    font-size: 1.5em;
+  }
+
+  body > footer {
+    font-size: 1em;
+  }
+
+script: |
+  jQuery("blockquote").fitText(1.2, {minFontSize: '40px'});
+
+googlewebfonts: Rancho
+---
+
+<blockquote>
+    A new command I give you: <span>Love</span> one another. As I have <span>loved</span> you, so you must <span>love</span> one another.
+    <footer>John 13:34</footer>
+</blockquote>

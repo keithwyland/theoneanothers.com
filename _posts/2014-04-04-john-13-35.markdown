@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "John 13:35"
+date:   2014-04-04 00:00:01
+style: |
+  body {
+    font-family: 'Chango', cursive;
+  }
+  blockquote {
+    color: #36BEFF;
+    font-size: 6em;
+    margin: 0.5em 0.5em 2em;
+    opacity: 0.6;
+    font-weight: bold;
+    text-shadow: .05em .05em #003C64;
+  }
+
+  blockquote span,
+  blockquote footer {
+    color: #003C64;
+    text-shadow: .05em .05em #36BEFF;
+  }
+
+  blockquote footer {
+    font-size: 0.8em;
+  }
+
+  body > footer {
+    font-size: 1em;
+  }
+
+script: |
+  jQuery("blockquote").fitText(1.5, {minFontSize: '40px', maxFontSize: '120px'});
+
+googlewebfonts: Chango
+---
+
+<blockquote>
+    By this everyone will know that you are my disciples, <span>if you love</span> one another
+    <footer>John 13:35</footer>
+</blockquote>
