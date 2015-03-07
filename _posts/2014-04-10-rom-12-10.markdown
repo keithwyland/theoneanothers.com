@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Romans 10:10"
+title:  "Romans 12:10"
 date:   2014-04-10 00:00:01
 style: |
   body {
@@ -44,5 +44,5 @@ googlewebfonts: IM+Fell+Great+Primer
 
 <blockquote>
     Be <span>devoted</span> to one another in love. <span>Honor</span> one another <span>above</span> yourselves. 
-    <footer>Romans 10:10</footer>
+    <footer>Romans 12:10</footer>
 </blockquote>
