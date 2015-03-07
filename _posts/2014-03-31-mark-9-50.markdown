@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Luke 9:50"
+title:  "Mark 9:50"
 date:   2014-03-31 00:00:01
 style: |
   body {   
@@ -35,5 +35,5 @@ googlewebfonts: Rammetto+One
 
 <blockquote>
     Live in <span>peace</span> with each other
-    <footer>Luke 9:50</footer>
+    <footer>Mark 9:50</footer>
 </blockquote>
