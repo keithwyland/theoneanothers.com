@@ -33,6 +33,6 @@ googlewebfonts: Rammetto+One
 ---
 
 <blockquote>
-    Let no debt remain outstanding, except the continuing debt to <span>love one another</span>.
+    Let no debt remain outstanding, except the continuing debt to <span>love one another</span>
     <footer>Romans 13:8</footer>
 </blockquote>
